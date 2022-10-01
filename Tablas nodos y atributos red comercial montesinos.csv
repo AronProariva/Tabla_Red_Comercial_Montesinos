@@ -1,0 +1,87 @@
+Id;Label;puesto;origen;estancia;Label_copia;estancia_copia;relaciones [familia]_copia
+1;Juan López Téllez;Factor;Portugués;Segovia;Juan López Téllez;Castilla;Familia directa
+2;Fernando Montesinos;Dirigente;Portugués;Madrid;Fernando Montesinos;Castilla y exterior;Familia directa
+3;Manuel López Ferro;Colaborador;Portugués;;Manuel López Ferro;Castilla;Familia directa
+4;Andrés Fonseca;Abogado;Portugués;;;Castilla;Paisanaje
+5;Gaspar de Govea;Factor;Portugués;Cuenca;;Castilla;Paisanaje
+6;Jerónimo Gomez;Factor;Portugués;Toledo;;Castilla;Paisanaje
+7;Diego Mendez Correa;Factor;;Murcia;;Castilla;Laboral
+8;Manuel López Téllez;Factor;Portugués;Segovia;Manuel López Téllez;Castilla;Familia directa
+9;Diego Enriquez Gigante;Factor;;Salamanca;;Castilla;Laboral
+10;Antonio Vazquez;Factor;;Zamora;;Castilla;Laboral
+11;Gaspar A. Bohord;Factor;;Ávila;;Castilla;Laboral
+12;Diego Fernandez Losada;Factor;;Madrigal;;Castilla;Laboral
+13;Lucas García de la Peña;Factor;;Soria;;Castilla;Laboral
+14;Pedro Lopez Morales;Factor;Castellano;Sevilla;;Castilla;Laboral
+15;Lope Rodriguez Pereira;Factor;Portugués;Sevilla;;Castilla;Paisanaje
+16;Antonio de Castro Lopez;Factor y correspondiente;Portugués;Sevilla y Flandes;;Castilla y exterior;Familia indirecta
+17;Manuel Enríquez Pereira;Factor;Portugués;Sevilla;;Castilla;Familia indirecta
+18;Lucas García de Vera;Agente;Castellano;;;Castilla;Laboral
+19;Francisco López Téllez;Factor;Portugués;Segovia;Francisco López Téllez;Castilla;Familia directa
+20;Bartolomé López Téllez [hijo de Juan López Téllez];Factor;Portugués;Sevilla;Bartolomé López Téllez;Castilla;Familia directa
+21;Pedro de Zúñiga;Cajero;;Lisboa;;Castilla;Laboral
+22;Juan Rodríguez de la Torre;Agente;;;;Castilla;Laboral
+23;Esteban Gomez;Agente;;Soria, Villanueva de los Infantes y �vila;;Castilla;Laboral
+24;Diego Gomez;Agente;;Soria, Villanueva de los Infantes y �vila;;Castilla;Laboral
+25;Francisco de la Torre;Agente;;Soria, Villanueva de los Infantes y �vila;;Castilla;Laboral
+26;Francisco Téllez;Cajero;Portugués;;;Castilla;Familia indirecta
+27;Antonio López Castrogago;Agente;Portugués;Sevilla;;Castilla;Paisanaje
+28;Gaspar Gómez;Agente de cobranzas;Portugués;;;Castilla;Familia indirecta
+29;Antonio Gómez;Diversos puestos;Portugués;;;Castilla;Familia indirecta
+30;Antonio Suarez de Fonseca;Encargado de rentas [de las salinas];;;;Castilla;Laboral
+31;Fernando López Matos;Agente;Portugués;Granada;;Castilla;Paisanaje
+32;Manuel Méndez de León;Receptor de mercancías;Portugués;Ribadeo;;Castilla;Paisanaje
+33;Juan Méndez de León;Cajero;Portugués;;;Castilla;Paisanaje
+34;Francisco Méndez de León;Agente de cobranzas;Portugués;;;Castilla;Paisanaje
+35;Francisco Duarte Méndez;Cajero;Portugués;;;Castilla;Paisanaje
+36;Lorenzo Paniagua;Correspondiente;Castellano;Cáceres;;Castilla;Laboral
+37;Leandro de Aguilar;Correspondiente;Castellano;Medina de Rioseco;;Castilla;Laboral
+38;Ana Palencia;Correspondiente;Castellano;Medina de Rioseco;;Castilla;Laboral
+39;Juan Bautista Navarrete;Correspondiente;Castellano;;;Castilla;Laboral
+40;Rodrigo de Bortiman;Correspondiente;Flamenco;Málaga;;Castilla;Laboral
+41;Justo de Tolinarte;Correspondiente;Flamenco;Málaga;;Castilla;Laboral
+42;Sebastian Vázquez de Quintana;Correspondiente;;;;Castilla;Laboral
+43;Francisco López Téllez [sobrino];Colaborador;Portugués;Galicia;Francisco López Téllez [hijo];Castilla;Familia directa
+44;Tomás de Palencia;Correspondiente;Castellano;Medina de Rioseco;;Castilla;Laboral
+45;Bento Rodríguez Lisboa;Correspondiente;Portugués;Amberes;;Exterior;Paisanaje
+46;Antonio de Paz;Correspondiente;Portugués;Amberes;;Exterior;Paisanaje
+47;Andrés de Acevedo;Correspondiente;Portugués;Amberes y Amsterdam;;Exterior;Paisanaje
+48;Juan de Paz;Correspondiente;Portugués;Amberes y Amsterdam;;Exterior;Paisanaje
+49;Diego López Téllez [Doctor];Factor;Portugués;Amsterdam;Diego López Téllez;Exterior;Familia directa
+50;Pedro López Téllez;Factor;Portugués;Amsterdam;Pedro López Téllez;Exterior;Familia directa
+51;Manuel Sierra;Factor;Portugués;Amsterdam, La Rochelle, Burdeos;Manuel Sierra;Exterior;Familia directa
+52;Jorge López Téllez [hijo de Diego López Téllez];Factor;Portugués;Amsterdam;Jorge López Téllez;Exterior;Familia directa
+53;Jorge López de Andrade;Factor;;Hamburgo;;Exterior;Laboral
+54;Juan de Oporto;Factor;Portugués;Burdeos;;Exterior;Paisanaje
+55;Antonio de Rocha;Factor;Bayona;Bayona;;Exterior;Laboral
+56;Pedro Lorenzo Aguiar;Factor;Portugués;Bayona;;Exterior;Paisanaje
+57;D. Rodriguez Losada;Factor;;Bayona;;Exterior;Laboral
+58;A. Fernandez Losada;Factor;;Biarritz;;Exterior;Laboral
+59;Juan Luis Güimarais;Correspondiente;;París;;Exterior;Laboral
+60;Francisco Antonio Herrera Calderon;Factor;Santander;Santander;;Exterior;Laboral
+61;Francisco Landa;Factor;Vasco;Bilbao;;Exterior;Laboral
+62;Tomás de Santa Coloma;Factor;Vasco;Bilbao;;Exterior;Laboral
+63;Martin de Ben;Factor;Vasco;San Sebastian;;Exterior;Laboral
+64;Francisco Beroiz y Fagola;Factor y correspondiente;Vasco;San Sebastian;;Exterior;Laboral
+65;Juan de Zabalza;Factor;Pamplona;Pamplona;;Exterior;Laboral
+66;Bernardo de Iguiarreta;Factor;Pamplona;Pamplona;;Exterior;Laboral
+67;A. Acosta Teixeira;Factor;Portugués;Vitoria;;Exterior;Paisanaje
+68;Francisco de Múxica;Factor;Alicante;Alicante;;Exterior;Laboral
+69;Gaspar de Múxica;Factor;Alicante;Alicante;;Exterior;Laboral
+70;Gaspar de Múxica [hijo de Gaspar de Múxica];Factor;Alicante;Alicante;;Exterior;Laboral
+71;Bartolomé Sierra [hijo de Manuel Sierra];Factor;Portugués;La Rochelle;Bartolomé Sierra;Exterior;Familia directa
+72;Antonio López Mirandela;Correspondiente;Portugués;Ruan;;Exterior;Paisanaje
+73;Duarte López Pereira;Factor;Portugués;Bayona;;Exterior;Paisanaje
+74;Gerardo Vanharde [Abraham Pereira-Tomás Rodríguez Pereira];Correspondiente;Portugués;Amsterdam;;Exterior;Paisanaje
+75;Carlos Vanharde [Isaac Pereira];Correspondiente;Portugués;Amsterdam;;Exterior;Paisanaje
+76;Efraim Bueno;Correspondiente;Portugués;Amsterdam;;Exterior;Familia indirecta
+77;Melchor Méndez Franco [Abraham Franco Mendez];Correspondiente;Portugués;Amsterdam;;Exterior;Paisanaje
+78;Diego Rodríguez Matos;Correspondiente;Portugués;Amsterdam;;Exterior;Paisanaje
+79;Juan Alonso de Huidobro;Factor;Burgos;Burgos;;Exterior;Laboral
+80;Sebastián de Almeyda;Encargado de rentas [de las salinas];Portugués;Galicia y Asturias;;Castilla;Familia indirecta
+81;Manuel Montesinos;Encargado de rentas [de las salinas];Castellano;Galicia y Asturias y Madrid;Manuel Montesinos;Castilla;Familia directa
+82;Bartolomé Montesinos;Encargado de rentas [de las salinas];Castellano;Galicia y Asturias y Pontevedra;Bartolomé Montesinos;Castilla;Familia directa
+83;Agustín de Fonseca;Correspondiente;Portugués;Venecia;;Exterior;Familia indirecta
+84;Fadrique López Sobreda;Receptor de mercancías;Portugués;Asturias;;Castilla;Familia indirecta
+85;Francisco Gómez Romano;Agente;Portugués;Porcuna (Jaén);;Castilla;Familia indirecta
+86;Pedro Gómez;Vendedor de mercancías;Portugués;Porcuna (Jaén);;Castilla;Paisanaje
